@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-01T23:31:21.385Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="50BVdgykut-ZSd7VJDbY" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-01T23:49:00.675Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="cLcmtDbJdaTGcoqBcM0X" version="24.2.1" type="github">
   <diagram name="Página-1" id="sg3c1MRSDcVtMZwVH0K7">
-    <mxGraphModel dx="2462" dy="992" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2037" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,7 +25,7 @@
         <mxCell id="XP6E58Gy24gJ-YmeiLNU-10" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="XP6E58Gy24gJ-YmeiLNU-7" target="XP6E58Gy24gJ-YmeiLNU-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XP6E58Gy24gJ-YmeiLNU-7" value="Validar dados do ponto pelo usuário administrador" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XP6E58Gy24gJ-YmeiLNU-7" value="Validar dados do ponto pelo usuário da prefeitura" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XP6E58Gy24gJ-YmeiLNU-13" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="XP6E58Gy24gJ-YmeiLNU-9" target="XP6E58Gy24gJ-YmeiLNU-11">
